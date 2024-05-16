@@ -31,8 +31,7 @@ If you want to set up the project for development:
 
 ## Credits
 
-- This game was created by [Your Name].
-- Based on the [Tic-Tac-Toe tutorial](https://www.example.com/tutorial) by [Author Name].
+- This game was created by [Shashikumar]
 
 ## License
 
